@@ -1,0 +1,2 @@
+POST  http://localhost:3000/query_params?phrase=hi
+Content-Type: application/json
